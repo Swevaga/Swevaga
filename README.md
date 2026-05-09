@@ -46,10 +46,6 @@ Coding buatku bukan lomba — ini perjalanan pelan tapi konsisten menuju mimpi. 
   <img src="https://streak-stats.demolab.com?user=Swevaga&theme=dark&background=10002b&ring=7b2cbf&fire=9d4edd&currStreakLabel=9d4edd" height="170em"/>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Swevaga&layout=compact&theme=vision-friendly-dark&title_color=9d4edd&text_color=C8E1FF&bg_color=0,10002b,000000&border_color=7b2cbf" height="170em"/>
-</p>
-
 ---
 
 <p align="center">
