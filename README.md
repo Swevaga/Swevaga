@@ -9,7 +9,7 @@ Coding buatku bukan lomba — ini perjalanan pelan tapi konsisten menuju mimpi. 
 
 - 🌍 Based in **Indonesia**
 - 🎮 Passionate about **UI Cloning, Mini-games, & API Experiments**
-- 🚀 Current Version: `v0.7.2` — *Building the future, one commit at a time.*
+- 🚀 Current Version: `v0.0.1` — *Building the future, one commit at a time.*
 
 ---
 
