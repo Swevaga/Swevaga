@@ -36,7 +36,7 @@ Coding buatku bukan lomba — ini perjalanan pelan tapi konsisten menuju mimpi. 
 ---
 
 ### 🔥 Featured Project
-**[Netflix MyQueen](https://github.com/yourusername/netflix-myqueen)**
+**[Netflix MyQueen](https://github.com/Swevaga/Netflix-MyQueen)**
 > Cloning UI ala Netflix dengan fitur daftar tontonan. Eksperimen utama dalam memahami API modern dan komponen modular.
 
 ---
