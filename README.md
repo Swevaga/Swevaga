@@ -9,7 +9,7 @@ Coding buatku bukan lomba — ini perjalanan pelan tapi konsisten menuju mimpi. 
 
 - 🌍 Based in **Indonesia**
 - 🎮 Passionate about **UI Cloning, Mini-games, & API Experiments**
-- 🚀 Current Version: `v0.0.1` — *Building the future, one commit at a time.*
+- 🚀 Current Version: `v1.5` — *Building the future, one commit at a time.*
 
 ---
 
@@ -37,7 +37,7 @@ Coding buatku bukan lomba — ini perjalanan pelan tapi konsisten menuju mimpi. 
 
 ### 🔥 Featured Project
 **[Netflix MyQueen](https://github.com/Swevaga/Netflix-MyQueen)**
-> Cloning UI ala Netflix dengan fitur daftar tontonan. Eksperimen utama dalam memahami API modern dan komponen modular.
+> Official Website For My Wife, UI Design Simple Cloned Netflix Official But Not Copyright.
 
 ---
 
