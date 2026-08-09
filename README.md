@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2cbf,100:10002b&height=150&text=EVAGA%20/%20ROUF&fontSize=50&fontColor=F7F7F7&fontAlignY=45&animation=twinkling&section=header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7b2cbf,100:10002b&height=150&text=Vaetherion%20/%20Rouf&fontSize=50&fontColor=F7F7F7&fontAlignY=45&animation=twinkling&section=header" />
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3300&color=9d4edd&center=true&vCenter=true&width=600&lines=FULL+STACK+DEV+IN+PROGRESS;GAME+DEVELOPER+IN+THE+MAKING;GROW+SILENTLY,+SHIP+LOUDLY" />
