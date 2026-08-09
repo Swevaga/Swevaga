@@ -43,7 +43,7 @@ Coding buatku bukan lomba — ini perjalanan pelan tapi konsisten menuju mimpi. 
 
 ### 📊 GitHub Analytics
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Swevaga&theme=dark&background=10002b&ring=7b2cbf&fire=9d4edd&currStreakLabel=9d4edd" height="170em"/>
+  <img src="https://streak-stats.demolab.com?user=vaxetherion&theme=dark&background=10002b&ring=7b2cbf&fire=9d4edd&currStreakLabel=9d4edd" height="170em"/>
 </p>
 
 ---
